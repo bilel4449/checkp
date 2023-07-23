@@ -1,9 +1,9 @@
-
+import { data } from "../../product"
 const Image = () => {
   return (
-    <div>
-        <img src="/pc.jpg" alt="" />
-    </div>
+  
+        <img src="pc.jpg" alt="" />
+    
   )
 }
 

@@ -1,8 +1,8 @@
 
-
+import { data } from "../../product"
 const Nom = () => {
   return (
-    <div>Lenovo</div>
+    <div>{data.Nom}</div>
   )
 }
 

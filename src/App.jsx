@@ -12,10 +12,10 @@ function App() {
 
   return (
     <>
-      <Nom/>
+      {/* <Nom/>
       <Prix/>
       <Discription/>
-      <Image/>
+      <Image/> */}
       <Card border="primary" style={{ width: '55rem' }}>
         <Card.Header><Nom/></Card.Header>
         <Card.Body>

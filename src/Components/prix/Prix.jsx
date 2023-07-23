@@ -1,7 +1,9 @@
+import { data } from "../../product"
+
 
 const Prix = () => {
   return (
-    <div>1850 dt</div>
+    <div> {data.Prix}</div>
   )
 }
 
